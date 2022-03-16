@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "blog-c0t.pages.dev"
+baseURL = "https://blog-c0t.pages.dev"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
